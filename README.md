@@ -1,5 +1,14 @@
-# 💫 About Me:
-# Halo, saya Rizky 👋<br><br>Saya adalah mahasiswa yang sedang memulai perjalanan di dunia software development.<br><br>Saya tertarik pada pengembangan aplikasi web dan mobile. Saat ini saya sedang membangun pengalaman melalui berbagai project pribadi sambil terus mempelajari bahasa pemrograman dan teknologi baru.<br><br>## Yang Sedang Saya Pelajari<br><br>Saya sedang memperkuat dasar-dasar pengembangan software melalui project yang saya kerjakan sendiri.<br><br>Beberapa hal yang sedang saya pelajari dan eksplorasi:<br><br>- PHP dan Laravel<br>- Database dan SQLite<br>- JavaScript<br>- Pengembangan aplikasi Android<br>- NativePHP<br>- Kotlin<br>- Dart dan pengembangan aplikasi mobile<br>- Testing dan pengelolaan project<br>- Bahasa pemrograman dan teknologi lain yang menarik untuk dipelajari<br><br>Saya tidak ingin membatasi diri pada satu bahasa pemrograman atau satu teknologi.<br><br>Selama masih ada hal baru yang bisa dipelajari, saya ingin terus mencoba, memahami, dan menerapkannya melalui project nyata.<br><br>## Fokus Saya<br><br>Saya tertarik membuat aplikasi yang sederhana, bermanfaat, dan mudah digunakan.<br><br>Dalam setiap project, saya berusaha memahami bukan hanya cara membuat sebuah fitur, tetapi juga bagaimana mengelola data, menguji aplikasi, memperbaiki tampilan, menyelesaikan masalah, dan memahami teknologi yang saya gunakan.<br><br>Saya juga ingin terus berkembang dengan mencoba berbagai pendekatan dan teknologi baru.<br><br>## Teknologi yang Pernah dan Sedang Saya Gunakan<br><br>PHP · Laravel · SQLite · JavaScript · NativePHP · Kotlin · Dart<br><br>Teknologi di atas berada pada tahap yang berbeda-beda. Beberapa sudah saya gunakan dalam project, sementara yang lain masih saya pelajari dan eksplorasi.<br><br>## Project<br><br>Project yang sedang dan pernah saya kerjakan dapat dilihat melalui repository yang saya tampilkan di profil GitHub ini.<br><br>Saya menggunakan project pribadi sebagai tempat untuk belajar, bereksperimen, menemukan masalah, dan mencoba menyelesaikannya dengan cara yang lebih baik.<br><br>## Saat Ini<br><br>Saat ini saya sedang fokus membangun pengalaman melalui project pribadi dan memperluas pemahaman saya tentang pengembangan web, mobile, database, testing, dan software engineering.<br><br>Saya masih memiliki banyak hal untuk dipelajari, dan itu justru menjadi bagian yang saya nikmati dari proses belajar sebagai developer.<br><br>---<br><br>Terima kasih sudah mengunjungi profil saya.<br>
+# 👋 Halo, saya Rizky
+
+Mahasiswa IT yang sedang memulai perjalanan di dunia software development.
+
+- 💻 Tertarik pada pengembangan aplikasi web dan mobile
+- 🧑‍💻 Pernah menggunakan PHP, Laravel, JavaScript, Kotlin, SQLite, dan NativePHP
+- 🌱 Sedang mempelajari Dart dan berbagai teknologi baru
+- 🛠️ Suka belajar melalui project nyata dan mencoba menyelesaikan masalah sendiri
+- 🎯 Ingin terus berkembang dalam programming, database, testing, UI, dan pengembangan aplikasi
+
+> Selama masih ada hal baru yang bisa dipelajari, saya ingin terus mencoba.
 
 
 ## 🌐 Socials:
