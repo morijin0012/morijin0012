@@ -4,7 +4,7 @@ Mahasiswa IT yang sedang memulai perjalanan di dunia software development.
 
 - 💻 Tertarik pada pengembangan aplikasi web dan mobile
 - 🧑‍💻 Pernah menggunakan PHP, Laravel, JavaScript, Kotlin, SQLite, dan NativePHP
-- 🌱 Sedang mempelajari Dart dan berbagai teknologi baru
+- 🌱 Dart · Flutter · TypeScript · React · C# · .NET · Python · Go · Rust · PostgreSQL · MySQL
 - 🛠️ Suka belajar melalui project nyata dan mencoba menyelesaikan masalah sendiri
 - 🎯 Ingin terus berkembang dalam programming, database, testing, UI, dan pengembangan aplikasi
 
@@ -23,5 +23,11 @@ Mahasiswa IT yang sedang memulai perjalanan di dunia software development.
 
 ---
 [![](https://komarev.com/ghpvc/?username=morijin0012&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## ☕ Dukung Saya
+
+Kalau ingin mendukung proses belajar dan project yang saya kerjakan:
+
+[**SociaBuzz**](https://sociabuzz.com/rrenhz/donate)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
